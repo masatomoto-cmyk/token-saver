@@ -1,0 +1,1 @@
+{ "name": "token-saver", "version": "0.1.0", "description": "Bash の長い出力を頭と終わりだけに縮めて、Claude が読むトークンを減らす。節約した量をステータスに表示" }
